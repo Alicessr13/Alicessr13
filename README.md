@@ -26,7 +26,7 @@ Contatos:
 ##
 GitHub Stats
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alice&theme=transparent&bg_color=FFC4C4&border_color=904C77&show_icons=true&icon_color=A10035&title_color=A10035&text_color=A10035)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alicessr13&theme=transparent&bg_color=FFC4C4&border_color=904C77&show_icons=true&icon_color=A10035&title_color=A10035&text_color=A10035)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Alicessr13&layout=compact&bg_color=FFC4C4&border_color=904C77&title_color=A10035&text_color=A10035)
 
 
