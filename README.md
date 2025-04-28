@@ -1,19 +1,25 @@
 ## Oii! Sou Alice Stephanie Soares Ribeiro 🌸
 
-Tenho uma boa experiência nas áreas administrativa e de tecnologia, sempre me adaptando e crescendo em cada oportunidade. Comecei minha carreira como estagiária na Caixa Econômica Federal e, em seguida, trabalhei como assistente administrativa na prefeitura de Lages. Hoje, estou na NDD, onde comecei como estagiária e agora sou analista de suporte júnior. 🦋
+Estagiária de Desenvolvimento de Software na Vosft, especializada em C#, Vue.js, TypeScript, MongoDB e Firebase. Atuo diretamente na implementação de novas funcionalidades, correção de bugs e integração de serviços, sempre seguindo práticas de código limpo e metodologias ágeis (Scrum).
 
-Tenho conhecimento em Excel, Word e no atendimento ao público. Minha paixão por informática e programação me levou a cursar Ciência da Computação e aprender sobre HTML, CSS, JavaScript, MySQL e SQL Server. 🌌
+Anteriormente, desenvolvi aplicações front-end com React e participei da criação de APIs utilizando .NET Core, JWT e Entity Framework, o que me proporcionou uma sólida base em design de software e versionamento com Git.
 
-Estou sempre em busca de novas oportunidades para aplicar e expandir meus conhecimentos técnicos, ajudando as equipes e projetos em que trabalho a terem sucesso. Valorizo o aprendizado contínuo e busco entregar resultados de qualidade, contribuindo para os projetos e a empresa como um todo. 🔮
+Sou apaixonada por informática e programação, o que me levou a cursar Ciência da Computação (bacharelado) pela Unifacvest. Estou sempre investindo em aprendizado contínuo, realizando cursos em Vue.js, TypeScript, C#, bancos NoSQL e testes automatizados.
+
+Iniciei minha trajetória profissional como estagiária na Caixa Econômica Federal, atuei como assistente administrativa na Prefeitura de Lages e, atualmente, também trabalho como Analista de Suporte Júnior na NDD.
+
+Busco sempre expandir meus conhecimentos técnicos e entregar resultados de qualidade, contribuindo para o sucesso dos projetos e equipes com quem trabalho! 🌟
 ##
 Habilidades: 
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ##
 Contatos:
 
@@ -27,6 +33,6 @@ Contatos:
 GitHub Stats
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alicessr13&theme=transparent&bg_color=FFC4C4&border_color=904C77&show_icons=true&icon_color=A10035&title_color=A10035&text_color=A10035)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Alicessr13&layout=compact&bg_color=FFC4C4&border_color=904C77&title_color=A10035&text_color=A10035)
+<!--![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Alicessr13&layout=compact&bg_color=FFC4C4&border_color=904C77&title_color=A10035&text_color=A10035)-->
 
 
