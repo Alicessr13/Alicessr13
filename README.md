@@ -4,7 +4,7 @@ Estagiária de Desenvolvimento de Software na Vsoft, trabalhando full-stack com 
 
 Graduanda em Ciência da Computação na Unifacvest e realizando cursos na Alura. :mortar_board:
 
-No meu tempo livre gosto de ler, principalmente livros de fantasia, jogar infinity nikki, lol e escutar música de todos os tipos.
+No meu tempo livre gosto de ler, principalmente livros de fantasia, jogar infinity nikki, lol e escutar música de todos os tipos. 🌌
 
 ##
 Habilidades: 
