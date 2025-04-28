@@ -1,14 +1,11 @@
 ## Oii! Sou Alice Stephanie Soares Ribeiro 🌸
 
-Estagiária de Desenvolvimento de Software na Vosft, especializada em C#, Vue.js, TypeScript, MongoDB e Firebase. Atuo diretamente na implementação de novas funcionalidades, correção de bugs e integração de serviços, sempre seguindo práticas de código limpo e metodologias ágeis (Scrum).
+Estagiária de Desenvolvimento de Software na Vsoft, trabalhando full-stack com C#, Vue.js e TypeScript, integrando MongoDB e Firebase em fluxos ágeis (Scrum). :new_moon:
 
-Anteriormente, desenvolvi aplicações front-end com React e participei da criação de APIs utilizando .NET Core, JWT e Entity Framework, o que me proporcionou uma sólida base em design de software e versionamento com Git.
+Graduanda em Ciência da Computação na Unifacvest e realizando cursos na Alura. :mortar_board:
 
-Sou apaixonada por informática e programação, o que me levou a cursar Ciência da Computação (bacharelado) pela Unifacvest. Estou sempre investindo em aprendizado contínuo, realizando cursos em Vue.js, TypeScript, C#, bancos NoSQL e testes automatizados.
+No meu tempo livre gosto de ler, principalmente livros de fantasia, jogar infinity nikki, lol e escutar música de todos os tipos.
 
-Iniciei minha trajetória profissional como estagiária na Caixa Econômica Federal, atuei como assistente administrativa na Prefeitura de Lages e, atualmente, também trabalho como Analista de Suporte Júnior na NDD.
-
-Busco sempre expandir meus conhecimentos técnicos e entregar resultados de qualidade, contribuindo para o sucesso dos projetos e equipes com quem trabalho! 🌟
 ##
 Habilidades: 
 
